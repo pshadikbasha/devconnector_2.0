@@ -1,6 +1,10 @@
-# starter web project
+ # starter web project
 this is a simple website project fro showing how to use git and github together
 # introudctoin
+this is the introdution to show different git repository and various factors using web project.
+
 # purpose
+changed foor learing to learn new things
 # deployment
+deployment thr project intl netlifyy
 #how to contribute
