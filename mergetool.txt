@@ -1,6 +1,0 @@
-
-#creating
-creating web app and develop for git and git hub
-#coding
-#deployment
-#production
