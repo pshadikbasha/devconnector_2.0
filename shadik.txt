@@ -1,4 +1,5 @@
 # starter web project
 # introudctoin
 # purpose
+# deployment
 #how to contribute
