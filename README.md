@@ -1,6 +1,6 @@
 # DevConnector 2.0
 
-> Social network for developers
+> Social network for react native  developers
 
 This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a small social network app that includes authentication, profiles and forum posts.
 
@@ -352,5 +352,5 @@ Brad Traversy
 
 ### License
 
-This project is licensed under the MIT License
+This project is issued by shadik under training purpose licensed under the MIT License
 adding copy right to the files at cheanni in home
