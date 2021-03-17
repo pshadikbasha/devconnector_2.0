@@ -11,3 +11,4 @@ deployment thr project intl netlifyy
 using money to contribute for poor children
 ##adding fifth coding of line 
 to the shadik.txt fioel
+Time to say good bye to git hub and learn easily
