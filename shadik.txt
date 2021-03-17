@@ -1,6 +1,6 @@
  # starter web project
 this is a simple website project fro showing how to use git and github together
-# introudctoin
+# introudctoin to bitcoin in america dude
 this is the introdution to show different git repository and various factors using web project.
 
 # purpose
